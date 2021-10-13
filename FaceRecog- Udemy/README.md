@@ -13,13 +13,6 @@ Face Recognition Attendence with AWS Rekognition &amp; Raspberry Pi3 it works wi
 
 <img src="img/rpicam.jpg">
 
-#### 3.Push Button
-
-<img src="img/push.png">
-
-#### 4.Motion Sensor (Optional)
-
-<img src="img/rpims.png" height="350">
 
 
 
